@@ -1,0 +1,15 @@
+.articleHome{
+    text-align: center;
+}
+
+
+.articleHome h1{
+   
+    color: var(--black);
+    padding: 20px;
+}
+.articleHome p{
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 20px;
+}
